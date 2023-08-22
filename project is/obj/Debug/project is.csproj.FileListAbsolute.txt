@@ -1,0 +1,38 @@
+H:\project\project is\project is\bin\Debug\project is.exe.config
+H:\project\project is\project is\bin\Debug\project is.exe
+H:\project\project is\project is\bin\Debug\project is.pdb
+H:\project\project is\project is\obj\Debug\project_is.Form1.resources
+H:\project\project is\project is\obj\Debug\project_is.Properties.Resources.resources
+H:\project\project is\project is\obj\Debug\project is.csproj.GenerateResource.Cache
+H:\project\project is\project is\obj\Debug\project is.exe
+H:\project\project is\project is\obj\Debug\project is.pdb
+H:\project\project is\project is\obj\Debug\project_is.forms.Form2.resources
+H:\project\project is\project is\obj\Debug\project_is.user_control.us_car.resources
+H:\project\project is\project is\obj\Debug\project_is.user_control.us_parts.resources
+H:\project\project is\project is\obj\Debug\project_is.user_control.AdminCtrl.resources
+H:\project\project is\project is\obj\Debug\project_is.forms.Form3.resources
+H:\project\project is\project is\obj\Debug\project_is.forms.Form4.resources
+H:\project\project is\project is\obj\Debug\project_is.forms.Form5.resources
+H:\project\project is\project is\obj\Debug\project_is.forms.Form6.resources
+H:\project\project is\project is\obj\Debug\project is.csprojResolveAssemblyReference.cache
+H:\project\project is\project is\obj\Debug\project_is.forms.Form7.resources
+H:\project\project is\project is\obj\Debug\project_is.forms.Form8.resources
+H:\Projects\project is\project is\bin\Debug\project is.exe.config
+H:\Projects\project is\project is\obj\Debug\project is.exe
+H:\Projects\project is\project is\obj\Debug\project is.pdb
+H:\Projects\project is\project is\bin\Debug\project is.exe
+H:\Projects\project is\project is\bin\Debug\project is.pdb
+H:\Projects\project is\project is\obj\Debug\project is.csprojResolveAssemblyReference.cache
+H:\Projects\project is\project is\obj\Debug\project_is.Form1.resources
+H:\Projects\project is\project is\obj\Debug\project_is.forms.Form2.resources
+H:\Projects\project is\project is\obj\Debug\project_is.forms.Form3.resources
+H:\Projects\project is\project is\obj\Debug\project_is.forms.Form4.resources
+H:\Projects\project is\project is\obj\Debug\project_is.forms.Form5.resources
+H:\Projects\project is\project is\obj\Debug\project_is.forms.Form6.resources
+H:\Projects\project is\project is\obj\Debug\project_is.forms.Form7.resources
+H:\Projects\project is\project is\obj\Debug\project_is.forms.Form8.resources
+H:\Projects\project is\project is\obj\Debug\project_is.Properties.Resources.resources
+H:\Projects\project is\project is\obj\Debug\project_is.user_control.AdminCtrl.resources
+H:\Projects\project is\project is\obj\Debug\project_is.user_control.us_car.resources
+H:\Projects\project is\project is\obj\Debug\project_is.user_control.us_parts.resources
+H:\Projects\project is\project is\obj\Debug\project is.csproj.GenerateResource.Cache
