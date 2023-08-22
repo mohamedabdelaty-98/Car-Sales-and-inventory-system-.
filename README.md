@@ -11,5 +11,5 @@ cart, view the list of the shopping cart before confirming purchase, credit card
 loan or buy a specific.
 
 ## Creation Time
-OCt 2018
+OCT 2018 - NOV 2018
 
